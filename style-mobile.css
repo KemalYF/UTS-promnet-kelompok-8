@@ -1,0 +1,18 @@
+@media only screen and (max-width:768px) {
+    .grid-coloumn {
+        grid-template-columns: repeat(1, auto);
+        grid-gap:50px;
+        padding : 0px;
+        align-items: center;
+        text-align: center;
+    }
+
+    .modal-footer {
+        padding: 19px 20px 20px;
+        background-color: rgb(75, 73, 73);
+        height: 350px;
+        text-align: justify;
+        border-top: 1px solid #e5e5e5;
+      }
+
+ }

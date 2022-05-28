@@ -1,0 +1,22 @@
+@media only screen and (max-width:768px) {
+  *{
+    width: auto;
+  }
+
+  .containert{
+    width: 100%;
+    margin: auto;
+    position: relative;
+    }
+
+    .article{
+      width: 100%;
+      margin: auto;
+      background-image: url('blue.jpg');
+      padding: 20px;
+      }
+
+      .article img{
+        width: 40%;
+      }
+ }
